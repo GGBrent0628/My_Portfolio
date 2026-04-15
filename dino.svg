@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 680 200" role="img">
+  <title>Brent Joshua Samson dinosaur logo</title>
+  <desc>A friendly cartoon T-Rex dinosaur logo in purple tones</desc>
+
+  <!-- Body -->
+  <ellipse cx="310" cy="130" rx="52" ry="38" fill="#7c3aed"/>
+
+  <!-- Tail -->
+  <path d="M258 138 Q220 148 200 162 Q212 155 222 143 Q240 132 258 128Z" fill="#6d28d9"/>
+
+  <!-- Neck -->
+  <path d="M330 100 Q342 80 350 65 Q355 55 348 50 Q340 48 335 58 Q326 72 320 95Z" fill="#7c3aed"/>
+
+  <!-- Head -->
+  <ellipse cx="355" cy="48" rx="24" ry="18" fill="#8b5cf6"/>
+
+  <!-- Snout -->
+  <path d="M368 50 Q385 50 388 56 Q385 63 368 62Z" fill="#7c3aed"/>
+
+  <!-- Eye -->
+  <circle cx="358" cy="42" r="5" fill="white"/>
+  <circle cx="360" cy="42" r="3" fill="#1e1030"/>
+  <circle cx="361" cy="41" r="1" fill="white"/>
+
+  <!-- Nostril -->
+  <circle cx="381" cy="54" r="1.5" fill="#4c1d95"/>
+
+  <!-- Mouth smile -->
+  <path d="M370 60 Q378 65 385 62" fill="none" stroke="#4c1d95" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Tiny teeth -->
+  <path d="M372 60 L373 63 L375 60" fill="white"/>
+  <path d="M377 61 L378 64 L380 61" fill="white"/>
+
+  <!-- Top spikes -->
+  <polygon points="338,58 333,42 343,54" fill="#a78bfa"/>
+  <polygon points="345,52 341,36 350,49" fill="#a78bfa"/>
+  <polygon points="352,48 349,31 357,45" fill="#a78bfa"/>
+
+  <!-- Front arm -->
+  <path d="M330 115 Q320 122 315 130 Q320 128 326 122 Q332 115 335 110Z" fill="#6d28d9"/>
+  <!-- Tiny claws -->
+  <line x1="315" y1="130" x2="311" y2="134" stroke="#4c1d95" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="315" y1="130" x2="313" y2="135" stroke="#4c1d95" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Back leg -->
+  <path d="M280 155 Q278 168 275 178 Q280 175 283 165 Q286 155 288 148Z" fill="#6d28d9"/>
+  <path d="M275 178 L270 182 M275 178 L278 183 M275 178 L281 181" stroke="#4c1d95" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Front leg -->
+  <path d="M305 158 Q303 172 300 180 Q305 177 308 167 Q311 157 313 150Z" fill="#6d28d9"/>
+  <path d="M300 180 L295 184 M300 180 L303 185 M300 180 L306 183" stroke="#4c1d95" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Belly lighter patch -->
+  <ellipse cx="305" cy="135" rx="28" ry="20" fill="#a78bfa" opacity="0.35"/>
+</svg>
